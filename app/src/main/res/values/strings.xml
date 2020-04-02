@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CurrencyExpress</string>
+    <string name="business_name">Currency Express</string>
+    <string name="euro_radio_button">Euro</string>
+    <string name="kenyan_shillings_radio_button">Kenyan Shilling</string>
+    <string name="indian_rupee_radio_button">Indian Rupee</string>
+    <string name="emirati_dirham_radio_button">Emirati Dirham</string>
+    <string name="mexican_peso_radio_button">Mexican Peso</string>
+    <string name="euro_exchange_rate">1 USD = 0.89832 EUR</string>
+    <string name="purchase_button">Purchase</string>
+
+    <string name="back_button">Back</string>
+    <string name="complete_button">Complete</string>
+    <string name="image_content_description">Currency Image</string>
+</resources>
